@@ -1,4 +1,5 @@
 # The Open Source Computer Science Degree
+![logoimg](./1.png)
 
 This is a curated list of free courses from reputable universities like MIT, Stanford, Duke, and Georgia Tech that satisfy the core requirements of an undergraduate Computer Science degree, minus general education. These resources are provided by platforms such as edX, Coursera, Udacity, and YouTube.
 
